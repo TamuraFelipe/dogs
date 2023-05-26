@@ -4,6 +4,9 @@ Este é o projeto "Dogs" desenvolvido durante o programa de React da Origamid. E
 
 O projeto foi construído utilizando a biblioteca React, juntamente com outras tecnologias como React Router e Victory (graphs). A estrutura do projeto é gerenciada pelo Vite, um bundler de desenvolvimento rápido.
 
+## Link do projeto na Netlify
+<a href="https://photo-dogs.netlify.app/">https://photo-dogs.netlify.app/</a>
+
 ## Preview
 <img src="./src/assets/teladelogin.png" alt="Imagem preview do projeto">
 <img src="./src/assets/feedhome.png" alt="Imagem preview do projeto">
